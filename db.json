@@ -1,13 +1,11 @@
 {
-	"people": [
-		{
-			"id": 1
+	"people": [{
+		"id": 1,
 		"email": "johndoe@example.com",
 		"firstName": "John",
 		"lastName": "Doe",
 		"age": 25
-	}
-	],
+	}],
 	"profile": {
 		"name": "typicode"
 	}
