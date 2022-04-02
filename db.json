@@ -5,21 +5,21 @@
          "firstName":"Adam",
          "lastName":"Smith",
          "email":"adam.smith1@example.com",
-         "phone":"11544879"
+         "phone":"+3611544879"
       },
       {
          "id":102,
          "firstName":"Flora",
          "lastName":"Gergely",
          "email":"flora.gergely15@example.com",
-         "phone":"00166548"
+         "phone":"+3600166548"
       },
       {
          "id":103,
          "firstName":"Robert",
          "lastName":"Johnson",
          "email":"robert.johnson89@example.com",
-         "phone":"664871549"
+         "phone":"+3664871549"
       }
    ],
    "profile":{
